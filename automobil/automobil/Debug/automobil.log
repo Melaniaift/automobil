@@ -1,0 +1,10 @@
+﻿  Automobil.cpp
+  AutomobilArdereInterna.cpp
+  AutomobilElectric.cpp
+  AutomobilHibrid.cpp
+  ListaD.cpp
+  Nod.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Melania Iftinchi\source\repos\automobil\automobil\ListaD.cpp(29): warning C4715: 'ListaD<Automobil *>::operator[]': not all control paths return a value
+  automobil.vcxproj -> C:\Users\Melania Iftinchi\source\repos\automobil\Debug\automobil.exe
